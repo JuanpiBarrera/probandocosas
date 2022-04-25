@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    padding: 10;
+    box-sizing: border-box;
+
+}
+
+@font-face{
+    font-family: acme;
+    src: url(../font/Acme-Regular.ttf);
+}
+
+html{
+    font-size: 90%;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #22577E;
+}
+
+.navegacion{
+    display: flex;
+}
+
+.barra{
+    display: flex;
+    list-style: none;
+    
+    
+
+}
+
+.a{
+    text-decoration: none;
+    color: #16ebeb;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 2px ;
+}
+
+.nav{
+    margin: 15px;
+}
+
+.logo{
+    width: 250px;
+    height: 150px;
+}
+
+body{
+    font-family: acme;
+}
+
+.art_1 img{
+    width: 300px;
+    height: 400px;
+}
+
+.art_2 img{
+    width: 300px;
+    height: 400px;
+}
+
+.art_3 img{
+    width: 300px;
+    height: 400px;
+}
+
+aside{
+    background-color: yellow;
+    border: solid 1px black;
+    overflow: hidden;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+.h2j{
+    display: flex;
+    justify-content: center;
+}
+    

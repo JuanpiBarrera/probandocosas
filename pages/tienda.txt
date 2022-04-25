@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../css/styles.css">
+    <title>Prix</title>
+</head>
+<body>
+    <header class="header">
+        <img class="logo" src="../Images/descarga.jpg">
+        <nav class="navegacion">
+            <ul class="barra">
+                <a class="a" href="../index.html"><li class="nav">Inicio</li></a>
+                <a class="a" href="tienda.html"><li class="nav">Tienda</li></a>
+                <a class="a" href="noticias.html"><li class="nav">Noticias</li></a>
+                <a class="a" href="nosotros.html"><li class="nav">Nosotros</li></a>
+                <a class="a" href="contacto.html"><li class="nav">Contacto</li><a>
+            </ul>
+        </nav>
+    </header>
+    <h1>Tienda</h1>
+    <section>
+        <div>
+            <img src="../Images/tienda 3.jpg" alt="">
+            <p>69.99$</p>
+        </div>
+        <div>
+            <img src="../Images/Tienda 2.jpg" alt="">
+            <p>15.99$</p>
+        </div>
+        <div>
+            <img src="../Images/Tienda 1.jpg" alt="">
+            <p>49.99$</p>
+        </div>
+    </section>
+    <footer>
+        <img src="images/coollogo_com-31824525.png" alt="">
+        <section>
+            <h2>Redes</h2>
+                <h3>Instagram</h3>
+                <h3>Twitter</h3>
+                <h3>Whatsapp</h3>
+        </section>
+        <h4>Juan Pablo Barrera</h4>
+    </footer>
+</body>
+</html>
